@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ikrom</h1>
 <h3 align="center">An enthusiastic android developer from Tajikistan</h3>
 
-- 🔭 I’m currently working on [Alif Mobi](https://alif.tj/ru/mobi)
+- 🔭 I’m currently working on [OJSC Alif](https://alif.tj/en)
 
 - 🤝 I’m looking for help with **POS-terminal**
 
